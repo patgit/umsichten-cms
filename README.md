@@ -1,9 +1,11 @@
-# Bolt Installer for Composer
+# umsichten CMS
 
-To start the install just run the following command replacing the project with
-the name you want to use.
+bolt CMS 3.6.10
 
-`composer create-project bolt/composer-install:3.6.x <MYPROJECT> --prefer-dist`
+https://bolt.cm/
 
-After the packages have downloaded, you can choose whether you would like a
-separate public directory and if so choose a name.
+
+## setup
+```
+composer  install
+```
